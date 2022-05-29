@@ -1,1 +1,1 @@
-web: gunicorn pi-facebook-msg:app --log-file -
+web: gunicorn api-facebook-msg:app --log-file -
