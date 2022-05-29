@@ -1,1 +1,1 @@
-web: gunicorn api-facebook-msg:app --log-file -
+web: python api-mensagem.py
